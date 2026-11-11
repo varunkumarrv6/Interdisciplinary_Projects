@@ -12,6 +12,19 @@ A small four-wheeled robot that follows a line drawn on paper using a HuskyLens 
 
 ![Prototype](images/prototype/side-view.jpg)
 
+## Gallery
+<table>
+<tr>
+<td width="33%"><img src="images/prototype/top-view.jpg" alt="Top view of the prototype"><br><sub>Top view: Arduino with motor shield, wiring, battery, four wheels and the front mechanism.</sub></td>
+<td width="33%"><img src="images/prototype/rear-angle.jpg" alt="Rear angle of the prototype"><br><sub>Rear angle: the rack-and-pinion lift and the HuskyLens camera at the front.</sub></td>
+<td width="33%"><img src="images/prototype/blade-mechanism-closeup.jpg" alt="Blade mechanism close-up"><br><sub>Close-up of the front mechanism with the HuskyLens camera.</sub></td>
+</tr>
+<tr>
+<td><img src="images/cad/top-view-assembly.jpg" alt="CAD top view of the assembly"><br><sub>CAD top view of the assembly (SolidWorks Educational watermark visible).</sub></td>
+<td colspan="2"><img src="images/results/cut-on-paper.jpg" alt="Cut line on paper"><br><sub>Result photo: a cut line on paper. No path-deviation measurement was recorded.</sub></td>
+</tr>
+</table>
+
 ## Problem
 Cutting sheets by hand along a drawn path is imprecise, and errors accumulate. CNC and laser cutters are precise but costly and need CAD input. The goal was a cheap, compact, vision-guided cutter for small sheets (A4-A3) that follows a pre-drawn line, with adjustable blade depth for layered media.
 
