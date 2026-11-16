@@ -28,7 +28,7 @@ The [early assembly CAD](../images/cad/early-assembly-with-ultrasonic-mount.jpg)
 | MG996R servo | Blade height via pinion | 4.8-7.2 V, 10-12 kg·cm stall |
 | Rack and pinion | Rotation -> linear blade motion | ~2-4 cm stroke, PLA/plastic |
 | 3 pushbuttons | Blade height / start | Mapped to A0, A1, A2 in code |
-| Battery | 18650 pack (7.4/11.1 V) or 12 V SLA given as examples|
+| Battery | Power supply | 18650 pack (7.4/11.1 V) or 12 V SLA given as examples |
 | Chassis | Acrylic plate with 3D-printed holders | 18 x 16 cm (Stage II) |
 | Blade | Scalpel/craft-type blade | Fixed to rack |
 

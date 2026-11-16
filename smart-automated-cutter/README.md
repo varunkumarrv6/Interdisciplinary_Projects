@@ -7,7 +7,7 @@ A small four-wheeled robot that follows a line drawn on paper using a HuskyLens 
 | **Status** | Working prototype, demonstrated on paper. |
 | **Type** | Team project, 7 members (Team 15), IIITDM Kancheepuram |
 | **Report date** | April 2025 (design report exported 18 Apr 2025) |
-| **My contribution (Varun)** | CAD, firmware, and calibration of the Kp/Ki/Kd gains (author-stated). Tuning values and results not yet recorded; see [docs/status-and-resume.md](docs/status-and-resume.md). |
+| **My contribution (Varun)** | CAD, firmware, and calibration of the Kp/Ki/Kd gains (author-stated). Tuning values and results not yet recorded. |
 | **Firmware** | [firmware/smart_cutter/smart_cutter.ino](firmware/smart_cutter/smart_cutter.ino) (transcribed from the report, not re-compiled) |
 
 ![Prototype](images/prototype/side-view.jpg)
@@ -52,8 +52,6 @@ Details: [docs/design.md](docs/design.md)
 ```
 firmware/smart_cutter/   Arduino sketch
 docs/design.md           Problem, design decisions, components, mechanics
-docs/code-review.md      Issues found in the firmware + suggested fixes
-docs/status-and-resume.md  Verified vs unverified claims, open questions, draft resume points
 images/cad|prototype|results
 ```
 
